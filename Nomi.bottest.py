@@ -216,5 +216,5 @@ async def help(ctx,help_command:str = None):
 
 #啟動機器人(指令結尾)
 #region Bot token
-bot.run("MTM3Mzk1NzcwMjE5NTIxNjM5NA.GsaK-s.6vob3vQeMhnX0UPjcpAnRciWYJgK_7-_aF6lRg")
+bot.run("BOTTOKEN")
 #endregion 
